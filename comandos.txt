@@ -1,0 +1,9 @@
+sudo npm install -g cordova ionic
+npm install -g ionic 
+
+
+#RODAR EMULADOR ANDROID
+ionic cordova run android
+
+#RODAR EMULADOR IOS
+ionic cordova build ios || ionic cordova emulate ios

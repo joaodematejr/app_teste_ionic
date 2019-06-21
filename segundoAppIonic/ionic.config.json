@@ -1,0 +1,7 @@
+{
+  "name": "segundoAppIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
